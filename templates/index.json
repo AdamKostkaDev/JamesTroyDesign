@@ -158,19 +158,20 @@
         "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/natalie-sysko-0IOY1_3d-r0-unsplash_1_1.jpg"
           }
         },
         "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-1": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "gold-seachell",
+            "second_image": true
           }
         },
         "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-2": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "damske-nahrdelniky"
           }
         }
       },
@@ -180,7 +181,7 @@
         "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
