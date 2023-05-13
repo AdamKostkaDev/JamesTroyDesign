@@ -7,16 +7,16 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/1251831-1449828035.jpg",
-            "heading": "<strong>Osvěžte svůj styl s James Troy Design<\/strong>",
+            "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Nakupujte zde",
+            "button_label": "",
             "link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 10,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
