@@ -190,6 +190,79 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "74909a9c-4e61-4ebe-a403-c5f4725c7e17": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18928209822023__74909a9c-4e61-4ebe-a403-c5f4725c7e17-16840012858da006da-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jedinečnost v každém kousku",
+            "heading_size": "h1"
+          }
+        },
+        "template--18928209822023__74909a9c-4e61-4ebe-a403-c5f4725c7e17-16840012858da006da-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>V James Troy Design neklademe jen důraz na krásu a kvalitu našich šperků, ale také na jejich vlastní tvorbu. Jsme hrdí na to, že každý šperk v naší kolekci je vytvořen s láskou a precizností přímo v našem vlastním ateliéru.<\/p><p><\/p><p>Když si vyberete šperk z James Troy Design, máte jistotu, že nosíte kus, který vznikl se zaujetím a výrazem našeho uměleckého nadšení. Věříme, že naše ručně vyráběné šperky přinesou do vašeho života krásu, radost a jedinečnost.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209822023__74909a9c-4e61-4ebe-a403-c5f4725c7e17-16840012858da006da-0",
+        "template--18928209822023__74909a9c-4e61-4ebe-a403-c5f4725c7e17-16840012858da006da-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ruan-richard-rodrigues-yOCtta47_6o-unsplash.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b9a3a32d-8ad9-4d90-8b06-7716605d6272": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18928209822023__b9a3a32d-8ad9-4d90-8b06-7716605d6272-16840019358adee2e7-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1251831-1449828035.jpg",
+            "heading": "Chcete nás kontaktovat?",
+            "heading_size": "h2",
+            "subheading": "Vaše spokojenost a radost z našich šperků jsou pro nás prioritou. Nechte nás vědět, jak vám můžeme pomoci, a těšíme se na vaši zprávu.",
+            "button_label": "Kontakt zde!",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209822023__b9a3a32d-8ad9-4d90-8b06-7716605d6272-16840019358adee2e7-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -197,6 +270,8 @@
     "a10278de-8be6-4129-9d89-bc4376d0babb",
     "featured-collection-0",
     "350dc953-4664-47b8-a870-7421ed020d05",
-    "b696e7b9-628a-4f49-8420-033946c01e0d"
+    "b696e7b9-628a-4f49-8420-033946c01e0d",
+    "74909a9c-4e61-4ebe-a403-c5f4725c7e17",
+    "b9a3a32d-8ad9-4d90-8b06-7716605d6272"
   ]
 }
