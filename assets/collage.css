@@ -67,6 +67,18 @@
     grid-row: span 2;
   }
 
+  .collage__item--center {
+  grid-column: 2 / span 2;
+}
+
+.collage__item--left {
+  grid-column: 1 / span 1;
+}
+
+.collage__item--right {
+  grid-column: 4 / span 1;
+}
+
   .collage__item--left:nth-child(3n - 2):last-child {
     grid-column: 1 / span 3;
   }
