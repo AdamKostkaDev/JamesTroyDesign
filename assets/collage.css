@@ -8,7 +8,7 @@
 }
 
 .collage__item > * {
-  width: 50%;
+  width: 100%;
 }
 
 .collage__item .card__content {
@@ -59,7 +59,7 @@
     grid-auto-flow: column;
     grid-column-gap: var(--grid-desktop-horizontal-spacing);
     grid-row-gap: var(--grid-desktop-vertical-spacing);
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 
   .collage__item--left:nth-child(3n - 2) {
@@ -112,7 +112,7 @@
 
 .collage-card {
   background: rgb(var(--color-background));
-  height: 50%;
+  height: 100%;
   position: relative;
   border-radius: var(--border-radius);
   border: var(--border-width) solid rgba(var(--color-foreground), var(--border-opacity));
@@ -126,7 +126,7 @@
   border-radius: var(--border-radius);
   box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius) rgba(var(--color-shadow), var(--shadow-opacity));
   width: calc(var(--border-width) * 2 + 100%);
-  height: calc(var(--border-width) * 2 + 50%);
+  height: calc(var(--border-width) * 2 + 100%);
   top: calc(var(--border-width) * -1);
   left: calc(var(--border-width) * -1);
 }
@@ -144,19 +144,19 @@
 }
 
 .collage-card .media {
-  height: 50%;
+  height: 100%;
   overflow: hidden;
   border-radius: calc(var(--border-radius) - var(--border-width) - var(--image-padding));
 }
 
 .collage-card .deferred-media {
-  height: 50%;
+  height: 100%;
   overflow: visible;
 }
 
 .collage-card__link {
   display: block;
-  height: 50%;
+  height: 100%;
 }
 
 .collage-card .deferred-media__poster {
