@@ -4,7 +4,6 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
@@ -14,10 +13,21 @@
             "color_scheme": "accent-1",
             "link": ""
           }
+        },
+        "6b1e1278-87bb-4e3b-9b52-c69571ee3bba": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Welcome to our store",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "6b1e1278-87bb-4e3b-9b52-c69571ee3bba"
       ],
       "settings": {
       }
