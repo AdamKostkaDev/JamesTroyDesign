@@ -126,7 +126,7 @@
   border-radius: var(--border-radius);
   box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius) rgba(var(--color-shadow), var(--shadow-opacity));
   width: calc(var(--border-width) * 2 + 100%);
-  height: calc(var(--border-width) * 2 + 100%);
+  height: calc(var(--border-width) * 2 + 50%);
   top: calc(var(--border-width) * -1);
   left: calc(var(--border-width) * -1);
 }
@@ -144,19 +144,19 @@
 }
 
 .collage-card .media {
-  height: 100%;
+  height: 50%;
   overflow: hidden;
   border-radius: calc(var(--border-radius) - var(--border-width) - var(--image-padding));
 }
 
 .collage-card .deferred-media {
-  height: 100%;
+  height: 50%;
   overflow: visible;
 }
 
 .collage-card__link {
   display: block;
-  height: 100%;
+  height: 50%;
 }
 
 .collage-card .deferred-media__poster {
