@@ -181,7 +181,7 @@
       "settings": {
         "heading": "Dámské náhrdelníky",
         "heading_size": "h0",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
