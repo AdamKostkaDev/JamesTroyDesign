@@ -154,6 +154,7 @@
     },
     "b696e7b9-628a-4f49-8420-033946c01e0d": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-0": {
           "type": "image",
