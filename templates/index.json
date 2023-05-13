@@ -170,13 +170,20 @@
           "settings": {
             "collection": "damske-nahrdelniky"
           }
+        },
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "damske-nahrdelniky"
+          }
         }
       },
       "block_order": [
         "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-1",
         "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-2",
         "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-3",
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-4"
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-4",
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-5"
       ],
       "settings": {
         "heading": "Dámské náhrdelníky",
