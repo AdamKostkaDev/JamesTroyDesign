@@ -101,13 +101,12 @@
     },
     "350dc953-4664-47b8-a870-7421ed020d05": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18928209822023__350dc953-4664-47b8-a870-7421ed020d05-1683997560bc017f30-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Šperky vyrobené s láskou a precizností",
+            "text": "<p>V James Troy Design se věnujeme tvorbě šperků s největší péčí a precizností. Každý kousek je vytvořen s láskou k detailu a kvalitě, abychom vám přinesli šperky, které zaujmou svým designem i provedením.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -115,8 +114,8 @@
         "template--18928209822023__350dc953-4664-47b8-a870-7421ed020d05-1683997560bc017f30-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Individualita a originalita",
+            "text": "<p>Věříme, že šperky jsou výjimečným prostředkem pro vyjádření osobnosti a originality. Proto nabízíme široký výběr unikátních designů, které vám umožní vyjádřit svůj jedinečný styl. Každý kousek je příběhem samotného nositele.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -124,8 +123,8 @@
         "template--18928209822023__350dc953-4664-47b8-a870-7421ed020d05-1683997560bc017f30-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Kvalita, na kterou se můžete spolehnout",
+            "text": "<p>James Troy Design klade důraz na kvalitu šperků. Používáme pouze vysoce kvalitní materiály a spolupracujeme s odbornými řemeslníky, abychom vám poskytli šperky, které vám budou sloužit dlouhá léta. Vaše spokojenost a důvěra jsou pro nás prioritou.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -137,14 +136,14 @@
         "template--18928209822023__350dc953-4664-47b8-a870-7421ed020d05-1683997560bc017f30-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -153,155 +152,38 @@
         "padding_bottom": 36
       }
     },
-    "bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18928209822023__bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47-1683911446abefe636-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--18928209822023__bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47-1683911446abefe636-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Naše šperky jsou navrženy tak, aby vám umožnily vyjádřit svou jedinečnost a osobnost. Každý kousek je ztělesněním elegance, originality a sebevyjádření.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18928209822023__bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47-1683911446abefe636-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18928209822023__bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47-1683911446abefe636-0",
-        "template--18928209822023__bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47-1683911446abefe636-1",
-        "template--18928209822023__bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47-1683911446abefe636-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "4ace9645-70fa-4348-a402-2fd7e0173400": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-4": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-0",
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-1",
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-2",
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-3",
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-4",
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-5",
-        "template--18928209822023__4ace9645-70fa-4348-a402-2fd7e0173400-1683996948b9a69f08-6"
-      ],
-      "settings": {
-        "product": "gold-seachell",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "623e459b-bb51-41de-adb5-facfde885658": {
+    "b696e7b9-628a-4f49-8420-033946c01e0d": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-1": {
+        "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-0": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-1": {
           "type": "product",
           "settings": {
-            "product": "gold-seachell",
+            "product": "",
             "second_image": false
           }
         },
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-2": {
+        "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-2": {
           "type": "collection",
           "settings": {
-            "collection": "damske-nahrdelniky"
-          }
-        },
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "damske-nahrdelniky"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-1",
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-2",
-        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-3"
+        "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-0",
+        "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-1",
+        "template--18928209822023__b696e7b9-628a-4f49-8420-033946c01e0d-168400109560b1c6f1-2"
       ],
       "settings": {
-        "heading": "Dámské náhrdelníky",
-        "heading_size": "h0",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
@@ -314,8 +196,6 @@
     "a10278de-8be6-4129-9d89-bc4376d0babb",
     "featured-collection-0",
     "350dc953-4664-47b8-a870-7421ed020d05",
-    "bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47",
-    "4ace9645-70fa-4348-a402-2fd7e0173400",
-    "623e459b-bb51-41de-adb5-facfde885658"
+    "b696e7b9-628a-4f49-8420-033946c01e0d"
   ]
 }
