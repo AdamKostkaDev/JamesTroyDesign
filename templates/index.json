@@ -150,6 +150,92 @@
         "padding_bottom": 16
       }
     },
+    "623e459b-bb51-41de-adb5-facfde885658": {
+      "type": "collage",
+      "blocks": {
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/natalie-sysko-Y7QsGrlj_6k-unsplash.jpg"
+          }
+        },
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "damske-nahrdelniky"
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-0",
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-1",
+        "template--18928209822023__623e459b-bb51-41de-adb5-facfde885658-16839816773438fe1d-2"
+      ],
+      "settings": {
+        "heading": "Dámské náhrdelníky",
+        "heading_size": "h0",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18928209822023__ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9-168398166331339f37-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18928209822023__ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9-168398166331339f37-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18928209822023__ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9-168398166331339f37-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209822023__ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9-168398166331339f37-0",
+        "template--18928209822023__ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9-168398166331339f37-1",
+        "template--18928209822023__ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9-168398166331339f37-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "e9c90dab-9265-4834-bc41-07795e0157c1": {
       "type": "collapsible-content",
       "blocks": {
@@ -227,6 +313,8 @@
     "a10278de-8be6-4129-9d89-bc4376d0babb",
     "bcf14bdb-02f7-4f5e-ab8d-92e7a3d1df47",
     "featured-collection-0",
+    "623e459b-bb51-41de-adb5-facfde885658",
+    "ff43fe9e-936b-4be6-8aeb-5dfdbddc90b9",
     "e9c90dab-9265-4834-bc41-07795e0157c1"
   ]
 }
