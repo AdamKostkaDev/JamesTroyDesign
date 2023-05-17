@@ -468,13 +468,13 @@
   <ul
     class="list-menu list-menu--inline"
     role="list"
-    style="font-size: 10rem;">
+   >
     {%- for link in section.settings.menu.links -%}
       <li>
         {%- if link.links != blank -%}
           <header-menu>
             <details id="Details-HeaderMenu-{{ forloop.index }}">
-              <summary class="header__menu-item list-menu__item link focus-inset">
+              <summary class="header__menu-item list-menu__item link focus-inset"  style="font-size: 10rem;">
                 <span
                   {%- if link.child_active %}
                   class="header__active-menu-item"
