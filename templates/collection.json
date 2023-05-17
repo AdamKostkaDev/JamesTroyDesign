@@ -2,10 +2,48 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
+      }
+    },
+    "3460322a-3688-447a-be86-194d7c61bc57": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18928210248007__3460322a-3688-447a-be86-194d7c61bc57-16843415131727168c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SÍLA V KAŽDÉM DETAILU",
+            "heading_size": "h1"
+          }
+        },
+        "template--18928210248007__3460322a-3688-447a-be86-194d7c61bc57-16843415131727168c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Naše mužská kolekce je více než jen soubor šperků. Je to výraz vašeho životního stylu, sebedůvěry a mužnosti. Důraz klade na sofistikovanost, originalitu a výjimečnost. Objevte šperky, které představují vaši vlastní osobnost a udělejte dojem, kdekoliv se objevíte.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18928210248007__3460322a-3688-447a-be86-194d7c61bc57-16843415131727168c-0",
+        "template--18928210248007__3460322a-3688-447a-be86-194d7c61bc57-16843415131727168c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hipster-man.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -29,6 +67,7 @@
   },
   "order": [
     "banner",
+    "3460322a-3688-447a-be86-194d7c61bc57",
     "product-grid"
   ]
 }
