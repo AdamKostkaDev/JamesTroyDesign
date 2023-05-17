@@ -5,18 +5,18 @@
     "footer": {
       "type": "footer",
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "newsletter_enable": false,
-        "newsletter_heading": "Subscribe to our emails",
+        "newsletter_heading": "",
         "enable_follow_on_shop": false,
         "show_social": false,
-        "enable_country_selector": true,
+        "enable_country_selector": false,
         "enable_language_selector": true,
         "payment_enable": true,
-        "show_policy": false,
+        "show_policy": true,
         "margin_top": 0,
         "padding_top": 0,
-        "padding_bottom": 60
+        "padding_bottom": 20
       }
     }
   },
