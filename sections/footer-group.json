@@ -4,19 +4,55 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "6b7f9da5-e31e-478f-97d2-562a9e6ec743": {
+          "type": "link_list",
+          "settings": {
+            "heading": "INFORMACE",
+            "menu": "footer"
+          }
+        },
+        "5c73053f-b315-40f0-aa4f-938f0160a3a9": {
+          "type": "brand_information",
+          "disabled": true,
+          "settings": {
+            "show_social": false
+          }
+        },
+        "7ef76076-13d2-43e2-b952-58917c00f685": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>NEWSLETTER<\/strong>",
+            "subtext": "<p>Buďte součástí naší komunity a získejte exkluzivní výhody! Přihlaste se k odběru našeho newsletteru a získáte nejen <strong>slevu 10%<\/strong> na svůj první nákup, ale také budete první, kdo se dozví o našich novinkách, limitovaných edicích a speciálních akcích.<\/p>"
+          }
+        },
+        "ef795586-2316-45a8-a86c-077c33006738": {
+          "type": "text",
+          "settings": {
+            "heading": "KONTAKT",
+            "subtext": "<p><strong>Kontaktní osoba:<\/strong> [Jakub Valouch]<\/p><p><strong>Telefonní číslo: <\/strong>[+420 XXX XXX XXX]<\/p><p><strong>E-mail:<\/strong> [<a href=\"mailto:info@jamestroydesign.cz\">info@jamestroydesign.cz<\/a>]<\/p><p><strong>Adresa:<\/strong> [adresa]<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6b7f9da5-e31e-478f-97d2-562a9e6ec743",
+        "5c73053f-b315-40f0-aa4f-938f0160a3a9",
+        "7ef76076-13d2-43e2-b952-58917c00f685",
+        "ef795586-2316-45a8-a86c-077c33006738"
+      ],
       "settings": {
         "color_scheme": "inverse",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "",
         "enable_follow_on_shop": false,
         "show_social": false,
         "enable_country_selector": false,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
         "payment_enable": true,
-        "show_policy": true,
+        "show_policy": false,
         "margin_top": 0,
-        "padding_top": 0,
-        "padding_bottom": 20
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
