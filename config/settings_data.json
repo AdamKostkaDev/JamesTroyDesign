@@ -132,7 +132,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "color_scheme": "inverse"
+          "color_scheme": "accent-2"
         }
       },
       "main-password-footer": {
