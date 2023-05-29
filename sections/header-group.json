@@ -35,12 +35,12 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".list-menu__item {font-size: 2rem;}"
+
       ],
       "settings": {
         "logo_position": "middle-center",
         "menu": "main-menu",
-        "menu_type_desktop": "dropdown",
+        "menu_type_desktop": "drawer",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": false,
         "color_scheme": "inverse",
