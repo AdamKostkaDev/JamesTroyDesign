@@ -38,7 +38,7 @@
 
       ],
       "settings": {
-        "logo_position": "middle-center",
+        "logo_position": "top-center",
         "menu": "main-menu",
         "menu_type_desktop": "drawer",
         "sticky_header_type": "on-scroll-up",
