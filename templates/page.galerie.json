@@ -1,0 +1,160 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "f0f771f6-c563-4c52-8c89-072ed08478cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18928209953095__f0f771f6-c563-4c52-8c89-072ed08478cc-16843436153da42d5e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>„Styl je víc než móda. Módu si můžeš koupit, se smyslem pro styl se musíš narodit.“ <\/em>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18928209953095__f0f771f6-c563-4c52-8c89-072ed08478cc-16843436153da42d5e-1": {
+          "type": "text",
+          "settings": {
+            "text": "JAMES TROY",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209953095__f0f771f6-c563-4c52-8c89-072ed08478cc-16843436153da42d5e-0",
+        "template--18928209953095__f0f771f6-c563-4c52-8c89-072ed08478cc-16843436153da42d5e-1"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/lou-levit-0lHIMPhRtN8-unsplash_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7286bd14-cd2d-4c1d-a60a-9529b4968f54": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18928209953095__7286bd14-cd2d-4c1d-a60a-9529b4968f54-168434361270838815-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18928209953095__7286bd14-cd2d-4c1d-a60a-9529b4968f54-168434361270838815-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Značka JAMES TROY vznikla v roce 2014 v Praze. Za jejím vznikem stojí Jakub Valouch, který byl od dětství veden otcem k lásce pro design, umění a módu. Právě on ho naučil milovat přírodní materiály – kůži, dřevo, kovy nebo kameny. Značka JAMES TROY dává těmto materiálům formu v podobě stylových doplňků, které potrhnou osobnost svého nositele. <\/strong><\/p><p><strong>První kolekci, kterou JAMES TROY představuje, jsou unisexové náramky z polodrahokamů a kovů. Tyto stylové náramky, jsou pro všechny, kteří se chtějí odlišit. Každý kámen v sobě nosí svou vlastní energii. Ať už vnímáte tyto náramky jako doplněk, nebo pro Vás jeho nošení má i hlubší význam, vždy to bude správně. <\/strong><\/p><p><strong>Značka JAMES TROY má další plány, které chce v oblasti doplňků a módy realizovat a představit veřejnosti. Sledujte naše stránky a uvidíte sami...<\/strong><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--18928209953095__7286bd14-cd2d-4c1d-a60a-9529b4968f54-168434361270838815-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209953095__7286bd14-cd2d-4c1d-a60a-9529b4968f54-168434361270838815-0",
+        "template--18928209953095__7286bd14-cd2d-4c1d-a60a-9529b4968f54-168434361270838815-1",
+        "template--18928209953095__7286bd14-cd2d-4c1d-a60a-9529b4968f54-168434361270838815-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/11084280_10153264378529225_8092972387233521739_n.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6bf644be-4571-41ea-8484-7b294253ba09": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18928209953095__6bf644be-4571-41ea-8484-7b294253ba09-168434361270838815-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18928209953095__6bf644be-4571-41ea-8484-7b294253ba09-168434361270838815-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18928209953095__6bf644be-4571-41ea-8484-7b294253ba09-168434361270838815-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18928209953095__6bf644be-4571-41ea-8484-7b294253ba09-168434361270838815-0",
+        "template--18928209953095__6bf644be-4571-41ea-8484-7b294253ba09-168434361270838815-1",
+        "template--18928209953095__6bf644be-4571-41ea-8484-7b294253ba09-168434361270838815-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "65115231-aac2-41d2-82c6-ad9cf1431492": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f0f771f6-c563-4c52-8c89-072ed08478cc",
+    "7286bd14-cd2d-4c1d-a60a-9529b4968f54",
+    "6bf644be-4571-41ea-8484-7b294253ba09",
+    "65115231-aac2-41d2-82c6-ad9cf1431492"
+  ]
+}
