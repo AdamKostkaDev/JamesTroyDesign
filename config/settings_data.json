@@ -292,7 +292,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".banner__heading {font-family: Montserrat; font-weight: light;}"
+      ".banner__heading {font-family: Montserrat; font-weight: lighter;}"
     ]
   }
 }
